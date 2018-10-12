@@ -9,3 +9,13 @@
 - Generate a random password
 - Have a set methods to change the password, set the mailboxcapacity, and define an alternate email address
 - Have get methods to display the name, email, mailbox capacity.
+
+## OSOperations
+### API for OS operations
+- Add myownapi.jar to your development machine to use all the OSOperations API
+#### APIs in OSOperation
+getAllContentsOfDirectory(<path>)
+  - use this API to list all the contents of directory, i.e. Directory Name: <directory name> or File Name: <file name>
+getOS()
+  - use this API to get the platform / OS
+  
