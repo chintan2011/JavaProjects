@@ -13,7 +13,9 @@
 ## OSOperations
 ### API for OS operations
 - Add myownapi.jar to your development machine to use all the OSOperations API
+
 #### APIs in OSOperation
+
 getAllContentsOfDirectory(<path>)
   - use this API to list all the contents of directory, i.e. Directory Name: <directory name> or File Name: <file name>
 getOS()
