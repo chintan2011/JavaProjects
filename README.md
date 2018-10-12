@@ -12,7 +12,7 @@
 
 ## OSOperations
 ### API for OS operations
-- Add myownapi.jar to your development machine to use all the OSOperations API
+- Down load myownapi.jar file from myownapi repository and add it to your development environment to use the API for OSOperations.
 
 #### APIs in OSOperation
 
