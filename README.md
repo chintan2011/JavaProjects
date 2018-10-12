@@ -20,4 +20,3 @@ getAllContentsOfDirectory(<path>)
   - use this API to list all the contents of directory, i.e. Directory Name: <directory name> or File Name: <file name>
 getOS()
   - use this API to get the platform / OS
-  
